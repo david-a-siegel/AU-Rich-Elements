@@ -2,7 +2,7 @@
 
 This repo contains materials relevant to our upcoming paper, preprint DOI: https://doi.org/10.1101/2020.02.12.945063.
 
-Python notebooks demonstrate the creation of the main figures in the manuscript from sequence-level data.
+Python notebooks (\*.ipynb) demonstrate the creation of the main figures in the manuscript from sequence-level data.
 
 The python script "EffectiveLengthCalculator.py" prints the length, registration, and "effective length" of the largest AU-rich element in an input sequence.  To run it, download the code and run it with a command like:
 
